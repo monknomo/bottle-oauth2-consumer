@@ -1,0 +1,1 @@
+A python class that handles Oauth2 authorization and provides a convenience annotation for restricting access for bottle.py routes
